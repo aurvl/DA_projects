@@ -56,6 +56,21 @@ Le notebook utilise plusieurs fonctions personnalisées pour extraire et analyse
 
 * La séparation des noms d'acteurs pour compter leur fréquence d'apparition.
 * La création de réseaux d'acteurs pour visualiser leurs relations en fonction des films dans lesquels ils apparaissent ensemble.
+
+
+## Key insights
+
+1. **Nombre d'apparitions des acteurs** : Ce graphique montre le nombre de fois que chaque acteur est apparu dans les films de la base de données. Un seul acteur (David Tennant) a un nombre d'apparitions significativement plus élevé que les autres, avec trois apparitions, tandis que les autres ont tous deux apparitions. Cela indique une certaine diversité dans le choix des acteurs pour les films analysés, avec peu de répétitions.
+
+2. **Nombre de saisons par chaîne de diffusion** : Ce graphique illustre le nombre de saisons pour chaque chaîne de diffusion. Certaines chaînes, telles que "BBC" et "Tokyo MX", se démarquent avec des séries ayant jusqu'à sept saisons, indiquant des productions de longue durée. D'autres chaînes ont des séries plus courtes, souvent limitées à une ou deux saisons, ce qui reflète leur politique de production ou leur type de contenu.
+
+3. **Durée des films par genre** : Les genres comme "Famille", "Aventure" et "Historique" ont une durée moyenne plus élevée, probablement en raison de la profondeur narrative requise. D'autres genres, comme "Biopic", présentent des durées légèrement inférieures, ce qui peut correspondre aux attentes en matière de rythme et de contenu dans ces types de films.
+
+4. **Nombre de films par an** : Ce graphique montre la répartition des films par année de sortie. On observe une augmentation régulière du nombre de films produits chaque année, culminant autour de 2016. Après cela, il y a une baisse, peut-être liée à des facteurs économiques ou des changements dans l'industrie du cinéma.
+
+5. **Réseau des genres** : Ce Réseau permet de visualiser les relations entre les différents genres. Chaque noeud représente un genre, et les liens montrent les genres qui se retrouvent souvent au sein des mêmes films ou séries. Par exemple, on peut voir que certains genres, comme le "Comédie dramatique" et le "Policier", se connectent à plusieurs autres genres, indiquant qu'ils sont souvent utilisés en combinaison. Cela fournit des insights intéressants sur les genres de films et séries populaires en termes de mélanges créatifs.
+
+Ces visualisations offrent un aperçu global des tendances et relations dans le dataset d'Allociné, ce qui permet de comprendre la répartition des acteurs, la durée des séries, la diversité des genres, ainsi que l’évolution de la production de contenu au fil du temps.
 <br>
 <br>
 
