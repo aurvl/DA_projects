@@ -7,7 +7,7 @@ Allocine/
     - allocine.ipynb : This Jupyter Notebook contains the python script used to create all visualizations
 ```
 
-Link to Notebook : []()
+Link to Notebook : [https://aurvl.github.io/NotebookSites/m2_exercices_py/allocine/allocine.html](https://aurvl.github.io/NotebookSites/m2_exercices_py/allocine/allocine.html)
 
 ## Project Description
 
