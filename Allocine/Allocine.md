@@ -6,6 +6,9 @@ Allocine/
     - Allocine.md : Project description
     - allocine.ipynb : This Jupyter Notebook contains the python script used to create all visualizations
     - Base_allocine.xslx : Dataset that contains moovies informations
+
+    figure-allocine/
+            (contient les différentes visualisations du project)
 ```
 
 Link to the Notebook : [https://aurvl.github.io/NotebookSites/m2_exercices_py/allocine/allocine.html](https://aurvl.github.io/NotebookSites/m2_exercices_py/allocine/allocine.html)
