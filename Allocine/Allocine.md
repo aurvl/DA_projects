@@ -3,11 +3,11 @@
 #### Structure du Repo
 ```
 Allocine/
-    - Allocine.md : Project description
-    - allocine.ipynb : This Jupyter Notebook contains the Python script used to create all visualizations
-    - Base_allocine.xslx : Dataset that contains moovies informations
+    |- Allocine.md : Project description
+    |- allocine.ipynb : This Jupyter Notebook contains the Python script used to create all visualizations
+    |- Base_allocine.xslx : Dataset that contains moovies informations
 
-    figure-allocine/
+    |-figure-allocine/
             (Directory containing the different visualizations of the project)
 ```
 
