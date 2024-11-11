@@ -27,4 +27,5 @@ Link to the online Notebook : [https://aurvl.github.io/NotebookSites/m2_exercice
 
 <br>
 <br>
+
 *Thanks & enjoy ! 🎉*
